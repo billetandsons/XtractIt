@@ -1,4 +1,7 @@
+Install:
+
 Add the script to C:\Program Files\Adobe\Adobe After Effects 202#\Support Files\Scripts
+
 or via File/Script/Install script file
 
 Usage:
